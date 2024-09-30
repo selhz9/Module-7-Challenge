@@ -1,4 +1,4 @@
-# Title [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Project Title [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 - [Description](#description)
@@ -9,21 +9,25 @@
 - [Contact Me](#contact-me)
 
 ## Description
-Description
+Write a short description of your project here.
 
 ## Installation
-Steps
+Install node.js and run npm i.
 
 ## Usage
-Examples
+Others can use this to easily write a Read Me file.
 
 ## Contributors
-Sources
+Add any contributors here.
 
 ## License
 MIT
 
 ## Questions
 Feel free to reach out to me here with any questions or comments:
-Email: selhz@email.com
-GitHub: selhz
+Email: sarahhantz@gmail.com
+GitHub: selhz9
+
+## License
+      This project is licensed under the MIT license.
+https://opensource.org/licenses/MIT
